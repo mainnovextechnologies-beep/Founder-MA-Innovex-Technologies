@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://mainnovextechnologies.lovable.app/sitemap.xml
+Sitemap: https://founder-ma-innovex-technologies.vercel.app/sitemap.xml
