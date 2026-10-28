@@ -6,13 +6,11 @@
 
   <url>
     <loc>https://founder-ma-innovex-technologies.vercel.app/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
 
     <image:image>
       <image:loc>https://founder-ma-innovex-technologies.vercel.app/images/thirumalapudi-mano-ganesh-founder-ma-innovex-technologies.jpg</image:loc>
-      <image:title>Thirumalapudi Mano Ganesh - Founder of MA Innovex Technologies</image:title>
-      <image:caption>Professional portrait of Thirumalapudi Mano Ganesh, Founder of MA Innovex Technologies</image:caption>
+      <image:title>Thirumalapudi Mano Ganesh, Founder of MA Innovex Technologies</image:title>
+      <image:caption>Professional portrait of Thirumalapudi Mano Ganesh</image:caption>
     </image:image>
   </url>
 
